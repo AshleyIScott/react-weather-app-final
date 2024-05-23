@@ -7,7 +7,11 @@ function App() {
 
       <footer>
         coded by
-        <a href="https://github.com/AshleyIScott" target="_blank">
+        <a
+          href="https://github.com/AshleyIScott"
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           Ashley Irving-Scott{" "}
         </a>
@@ -15,6 +19,7 @@ function App() {
         <a
           href="https://github.com/AshleyIScott/ReactWeatherApp"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           GitHub{" "}
@@ -23,6 +28,7 @@ function App() {
         <a
           href="https://main--dashing-trifle-8edf30.netlify.app/"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           Netlify
