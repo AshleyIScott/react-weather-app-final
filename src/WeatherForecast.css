@@ -5,3 +5,10 @@
 .WeatherForecastTemp-min {
   opacity: 0.7;
 }
+
+.WeatherForecast .col {
+  border: 0.7px solid #b9c5d2;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 7px;
+}

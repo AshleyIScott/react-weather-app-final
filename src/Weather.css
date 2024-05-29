@@ -1,4 +1,5 @@
 .Weather {
+  background-color: #dfe4ea;
   border: 0.7px solid #b9c8d8;
   border-radius: 5px;
   color: #6a7a89;
@@ -8,7 +9,7 @@
 
 .Weather h1 {
   color: #4d5f71;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 600;
   line-height: 30px;
   margin: 20px 0 0 0;
