@@ -20,7 +20,7 @@ function App() {
           </a>
           ◇ open-sourced on
           <a
-            href="https://github.com/AshleyIScott/week5-react-weather-app"
+            href="https://github.com/AshleyIScott/react-weather-app-final"
             target="_blank"
             rel="noreferrer"
           >
