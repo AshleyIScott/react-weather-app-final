@@ -29,7 +29,7 @@ function App() {
           </a>
           ◇ hosted on
           <a
-            href=" https://master--preeminent-maamoul-7886b8.netlify.app/"
+            href="https://reactweatherappfinal.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >

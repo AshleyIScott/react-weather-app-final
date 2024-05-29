@@ -41,7 +41,7 @@ export default function Weather(props) {
   if (weatherData.ready) {
     return (
       <div className="Weather">
-        <form on onSubmit={handleSubmit}>
+        <form className="mt-4 mb-4" onSubmit={handleSubmit}>
           <div className="row">
             <div className="col-9">
               <input
